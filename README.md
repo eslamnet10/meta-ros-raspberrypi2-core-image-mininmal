@@ -1,2 +1,2 @@
 # meta-ros-raspberrypi2-core-image-mininmal
-the image will upload soon 
+https://drive.google.com/file/d/0B6XF6lUahohncExQQ2Z2UEZURHM/view?usp=sharing
